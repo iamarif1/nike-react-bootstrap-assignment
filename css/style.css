@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+}
+.logo{
+    width:  85px;
+    height: 55px;
+}
+.nav-right{
+    margin-left: 40%;
+}
+header{
+    background-color: #FFF9F4;
+}
+.nike-card{
+    border: 0;
+    border-radius: 10px;
+}
+.card-bottom{
+    border: 0;
+    background: #fff;
+}
+.price{
+    color: #FA804C;
+}
+.txt-color{
+    color: #FA804C;
+}
+.btn-center{
+    margin-left: 40%;
+}
+.subscribe-bg{
+    background-color: #FCEAE8;
+    height: 300px;
+}
+.service-icon{
+    width: 100px;
+    height: 100px;
+}
